@@ -1,6 +1,5 @@
 /*============================================================================
 Names:       Rachel V., Cade R., Destiny C. and Grant L.
-Date:        December 7th, 2022
 Purpose:     This program uses a server to implement the card game
              black jack.
 ============================================================================*/
